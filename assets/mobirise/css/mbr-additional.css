@@ -1757,28 +1757,3 @@ body {
 .cid-qQ3bQseWDK .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qQ3eEj4Rq8 {
-  background-image: url("../../../assets/images/site-header-1124x1020.jpg");
-}
-.cid-qQMKpBLeW5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
-}
-.cid-qQMKpBLeW5 .image-block {
-  margin: auto;
-}
-.cid-qQMKpBLeW5 figcaption {
-  position: relative;
-}
-.cid-qQMKpBLeW5 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qQMKpBLeW5 .image-block {
-    width: 100% !important;
-  }
-}
