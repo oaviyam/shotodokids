@@ -1412,3 +1412,14 @@ body {
   flex-direction: column;
   -webkit-flex-direction: column;
 }
+.cid-rgVSKNtqkn {
+  background-image: url("../../../assets/images/site-header-1124x1020.jpg");
+}
+.cid-rgVSKNtqkn .mbr-text,
+.cid-rgVSKNtqkn .mbr-section-btn {
+  color: #c4bc3b;
+}
+.cid-rgVSKNtqkn H1 {
+  color: #f7ed4a;
+  text-align: center;
+}
