@@ -1,10 +1,10 @@
 {
   "settings": {
-    "name": "Shoto Do website",
+    "name": "Shoto Do Kids website",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 36,
-    "versionPublish": "4.8.7",
+    "versionPublish": "4.9.7",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,17 +34,24 @@
         "#82d6f2"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/logo2-128x130.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-no-name-128x130.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://kids.shotodo.com/",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Shotodo Home",
+        "title": "Shotodo Kids Home",
         "meta_descr": "Shoto Do  website\nשיטת שוטו דו היא אומנות לחימה מבוססת מציאות ששמה דגש על מצבי רחוב והגנה עצמית\nבסיטואציות יומיומיות.\n",
         "header_custom": "",
         "footer_custom": "",
